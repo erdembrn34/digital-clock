@@ -5,11 +5,6 @@ Uygulamada **Light (Açık)** ve **Dark (Koyu)** olmak üzere iki farklı tema b
 
 ---
 
-## 📸 Ekran Görüntüsü
-(İsterseniz buraya uygulamanın ekran görüntüsünü ekleyebilirsiniz)
-
----
-
 ## 🚀 Özellikler
 - Gerçek zamanlı saat güncellemesi (her 1 saniyede bir yenilenir)
 - Light (beyaz arka plan) ve Dark (mavi arka plan) tema seçenekleri
